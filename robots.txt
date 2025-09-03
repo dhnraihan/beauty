@@ -4,6 +4,6 @@ Disallow: /wp-content/uploads/woocommerce_transient_files/
 Disallow: /wp-content/uploads/woocommerce_uploads/
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-Disallow: http://octabeauty.ae/wp-content/uploads/wpforms/
+Disallow: http://beauty.raihan.xyz/wp-content/uploads/wpforms/
 
 Sitemap: https://octabeauty.ae/sitemap_index.xml
