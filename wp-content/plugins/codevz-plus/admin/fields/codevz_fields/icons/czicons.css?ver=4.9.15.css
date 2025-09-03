@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'czicons';
   src: url('czicons.eot');
-  src: url('czicons.eot#iefix') format('embedded-opentype'),
+  src: url('czicons.eot') format('embedded-opentype'),
        url('czicons.woff2') format('woff2'),
        url('czicons.woff') format('woff'),
        url('czicons.ttf') format('truetype'),
-       url('czicons.svg#czicons') format('svg');
+       url('czicons.svg') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block
