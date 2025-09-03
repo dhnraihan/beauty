@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	تعليقات لموقع مركز أوكتا لتجميل السيدات &#8211; OCTA LADIES BEAUTY CENTER	</title>
-	<atom:link href="https://octabeauty.ae/comments/feed/?lang=ar" rel="self" type="application/rss+xml" />
-	<link>https://octabeauty.ae/?lang=ar</link>
+	<atom:link href="https://beauty.raihan.xyz/comments/feed/?lang=ar" rel="self" type="application/rss+xml" />
+	<link>https://beauty.raihan.xyz/?lang=ar</link>
 	<description>مركز تجميل وعناية شخصية نسائي متكامل</description>
 	<lastBuildDate>Thu, 27 Mar 2025 23:41:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		تعليق على Hello world! بواسطة A WordPress Commenter		</title>
-		<link>https://octabeauty.ae/hello-world/?lang=ar#comment-1</link>
+		<link>https://beauty.raihan.xyz/hello-world/?lang=ar#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 27 Mar 2025 23:41:29 +0000</pubDate>
-		<guid isPermaLink="false">https://octabeauty.ae/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://beauty.raihan.xyz/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
